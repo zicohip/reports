@@ -1,3 +1,3 @@
 # reports
 
-Remote Command execution due to image tragick  ======>>>  https://hackerone.com/reports/412021
+Remote Command execution due to image tragick  ==>  https://hackerone.com/reports/412021
