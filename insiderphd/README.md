@@ -1,4 +1,4 @@
-### copied form @insiderphd  [github](https://github.com/InsiderPhD/hackerone-reports) , [youtube](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A) , thanks
+### copied form @insiderphd [github](https://github.com/InsiderPhD/hackerone-reports) , [youtube](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A) thanks you
 
 Tops of HackerOne reports. All reports' raw info stored in `data.csv`.
 Scripts to update `data.csv` are written in Python 3 and require `selenium`.
