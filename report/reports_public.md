@@ -4,7 +4,7 @@
 4. [Web cache deception attack on https://open.vanillaforums.com/messages/all](https://hackerone.com/reports/593712)
 5. [Insecure 2FA/authentication implementation creates a brute force vulnerability](https://hackerone.com/reports/149598)
 6. [Authorization bypass using login by phone option+horizontal escalation possible on Grab Android App](https://hackerone.com/reports/205000)
-7. []()
+7. [My New Discovery In Oracle E-Business Login Panel That Allowed To Access For All Employees Information's](https://orwaatyat.medium.com/my-new-discovery-in-oracle-e-business-login-panel-that-allowed-to-access-for-all-employees-ed0ec4cad7ac)
 8. []()
 9. []()
 10. []()
