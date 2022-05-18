@@ -5,7 +5,7 @@
 5. [Insecure 2FA/authentication implementation creates a brute force vulnerability](https://hackerone.com/reports/149598)
 6. [Authorization bypass using login by phone option+horizontal escalation possible on Grab Android App](https://hackerone.com/reports/205000)
 7. [My New Discovery In Oracle E-Business Login Panel That Allowed To Access For All Employees Information's](https://orwaatyat.medium.com/my-new-discovery-in-oracle-e-business-login-panel-that-allowed-to-access-for-all-employees-ed0ec4cad7ac)
-8. []()
+8. [Uber Bug Bounty: Turning Self-XSS into Good-XSS](https://whitton.io/articles/uber-turning-self-xss-into-good-xss/)
 9. []()
 10. []()
 11. []()
