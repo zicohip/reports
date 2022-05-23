@@ -11,7 +11,7 @@
 11. ♥[Can analyzing javascript files lead to remote code execution?](https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f)
 12. ♥[How I bypassed disable_functions in php to get a remote shell](https://infosecwriteups.com/how-i-bypassed-disable-functions-in-php-to-get-a-remote-shell-48b827d54979)
 13. [PayPal IDOR via billing Agreement Token (closed Informative, payment fraud)](https://mirror-medium.com/?m=https%3A%2F%2Fmedium.com%2F%40h4x0r_dz%2Fpaypal-idor-via-billing-agreement-token-closed-informative-payment-fraud-3245202fab38)
-14. []()
+14. [Hacking Google Drive Integrations](https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md)
 15. []()
 16. []()
 17. []()
