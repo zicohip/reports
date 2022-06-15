@@ -17,7 +17,7 @@
 ### business logic
 
 16. [Response program can create bounty table](https://hackerone.com/reports/460920)
-17. []()
+17. [OLO Total price manipulation using negative quantities](https://hackerone.com/reports/364843)
 18. []()
 19. []()
 20. []()
