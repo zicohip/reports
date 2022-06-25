@@ -18,7 +18,7 @@
 
 16. [Response program can create bounty table](https://hackerone.com/reports/460920)
 17. [OLO Total price manipulation using negative quantities](https://hackerone.com/reports/364843)
-18. []()
-19. []()
-20. []()
+18. [Able to manipulate order amount by removing cancellation amount and cause financial impact](https://hackerone.com/reports/614523)
+19. [Gaining unlimited bonus points on websites with WooCommerce Points and Rewards](https://hackerone.com/reports/592803)
+20. [Lack of proper paymentProfileUUID validation allows any number of free rides without any outstanding balance](https://hackerone.com/reports/574638)
 21. []()
