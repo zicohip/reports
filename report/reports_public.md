@@ -22,7 +22,7 @@
 19. [Gaining unlimited bonus points on websites with WooCommerce Points and Rewards](https://hackerone.com/reports/592803)
 20. [Lack of proper paymentProfileUUID validation allows any number of free rides without any outstanding balance](https://hackerone.com/reports/574638)
 21. [Lack of payment type validation in dial.uber.com allows for free rides](https://hackerone.com/reports/162199)
-22. []()
+22. [Harvesting all private invites using leave program fast-tracked invitation and security@ email forwarding feature](https://hackerone.com/reports/334205)
 23. []()
 24. []()
 25. []()
