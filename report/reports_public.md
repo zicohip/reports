@@ -22,14 +22,14 @@
 20. [Lack of proper paymentProfileUUID validation allows any number of free rides without any outstanding balance](https://hackerone.com/reports/574638)
 21. [Lack of payment type validation in dial.uber.com allows for free rides](https://hackerone.com/reports/162199)
 22. [Harvesting all private invites using leave program fast-tracked invitation and security@ email forwarding feature](https://hackerone.com/reports/334205)
-23. []()
+23. [Email Confirmation Bypass in your-store.myshopify.com which leads to privilege escalation](https://hackerone.com/reports/910300)
 24. []()
 25. []()
 26. []()
 ---------------------
-27. 
+27. [GitHub - RCE via git option injection (almost) - $20,000 Bounty](https://devcraft.io/2020/10/18/github-rce-git-inject.html)
 28. [Instagram_RCE: Code Execution Vulnerability in Instagram App for Android and iOS](https://research.checkpoint.com/2020/instagram_rce-code-execution-vulnerability-in-instagram-app-for-android-and-ios/)
-29. []()
+29. [We Hacked Apple for 3 Months: Here’s What We Found](https://samcurry.net/hacking-apple/)
 30. []()
 31. []()
 32. []()
